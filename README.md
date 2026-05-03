@@ -1,44 +1,47 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Simon%20Kiarie%20Kuria&fontSize=50&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Automation%20Expert&descAlignY=55&descColor=ffffff)
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=🚀+Building+the+Future+with+Code;💡+AI+%26+Automation+Specialist;🌍+Based+in+Kenya+%7C+Working+Globally;💼+Open+to+Freelance+%26+Full-time" alt="Typing SVG" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Simon%20Kiarie%20Kuria&fontSize=52&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Automation%20Specialist&descAlignY=56&descColor=a0aec0)
 
 <br/>
+
+<img src="https://github.com/simono02.png" width="130" style="border-radius:50%" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=🚀+I+Build+Web+Apps+%26+Websites;📱+Mobile+Apps+%26+Automated+Systems;🤖+AI+Integrations+%26+Python+Automation;💳+Payment+Integrations+%26+Custom+Dashboards;🌍+Based+in+Kenya+%7C+Working+Globally;✅+Open+to+Freelance+%26+Full-time" alt="Typing SVG" />
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-kuria-38986334a)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuriasimon002@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/simono02)
-[![Profile Views](https://komarev.com/ghpvc/?username=simono02&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)](https://github.com/simono02)
+[![Hire Me](https://img.shields.io/badge/💼_Hire_Me-Available-00d4ff?style=for-the-badge)](mailto:kuriasimon002@gmail.com)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
-## 🧠 Who Am I?
+## 👨‍💻 About Me
 
 ```yaml
-Name     : Simon Kiarie Kuria
-Role     : Full-Stack Developer & AI Engineer
-Location : Kenya 🇰🇪 (Available Worldwide)
-Status   : Open to Work & Freelance ✅
-Email    : kuriasimon002@gmail.com
+Name      : Simon Kiarie Kuria
+Title     : Full-Stack Developer & AI Engineer
+Location  : Kenya 🇰🇪  →  Available Worldwide 🌍
+Status    : ✅ Open to Freelance & Full-time Work
+Email     : kuriasimon002@gmail.com
 
-Expertise:
-  - Web Apps & Websites
-  - Mobile Applications
-  - AI Integrations
-  - Automation Systems
-  - Payment Integrations
+I Build   :
+  ✦ Web Apps & Websites
+  ✦ Mobile Applications
+  ✦ AI-Powered Systems
+  ✦ Python Automation Scripts
+  ✦ Payment Integrations
+  ✦ Custom Admin Dashboards
 ```
-
-<br clear="right"/>
 
 ---
 
-## ⚡ Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -54,13 +57,18 @@ Expertise:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🤖 AI & Automation
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Python](https://img.shields.io/badge/Python_Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 💳 Payments
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![PayPal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)
+
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -78,7 +86,7 @@ Expertise:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=simono02&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=simono02&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff" width="95%"/>
 </div>
 
 ---
@@ -96,11 +104,11 @@ Expertise:
 <div align="center">
 
 | 🌐 Web & Mobile | 🤖 AI & Automation | 💳 Payments & Systems |
-|:---:|:---:|:---:|
-| React Web Apps | AI Chatbots & Agents | Stripe & PayPal Integration |
-| Django REST APIs | Web Scraping & Automation | Billing & Invoicing Systems |
-| Mobile Applications | Workflow Automation | Custom Admin Dashboards |
-| Landing Pages | Data Processing Pipelines | Role-based Access Systems |
+|:---|:---|:---|
+| React Web Applications | AI Chatbots & Assistants | Stripe & PayPal Integration |
+| Django REST APIs | OpenAI & Claude API Integration | Billing & Invoicing Systems |
+| Mobile Applications | Python Automation Scripts | Custom Admin Dashboards |
+| Business Websites | Data Processing Pipelines | Role-based Access Control |
 
 </div>
 
@@ -108,11 +116,18 @@ Expertise:
 
 <div align="center">
 
-### 💬 Let's Build Something Amazing Together!
+### 🤝 Let's Build Something Amazing Together
 
-[![Email Me](https://img.shields.io/badge/📧_Email_Me-kuriasimon002@gmail.com-00d4ff?style=for-the-badge)](mailto:kuriasimon002@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/🤝_Connect_on_LinkedIn-Simon_Kuria-0077B5?style=for-the-badge)](https://www.linkedin.com/in/simon-kuria-38986334a)
+<a href="mailto:kuriasimon002@gmail.com">
+  <img src="https://img.shields.io/badge/📧_kuriasimon002@gmail.com-Send_Email-00d4ff?style=for-the-badge" />
+</a>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer)
+<a href="https://www.linkedin.com/in/simon-kuria-38986334a">
+  <img src="https://img.shields.io/badge/🤝_Connect_on_LinkedIn-Let's_Talk-0077B5?style=for-the-badge" />
+</a>
+
+<br/><br/>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=130&section=footer)
 
 </div>
